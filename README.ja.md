@@ -47,7 +47,7 @@ node compress.js
 
 ### 2. SDカードへファイルを配置
 
-`.nro` ファイルと、生成された `payload.txt` をSDカードに配置
+`.nro` ファイル ([releases](https://github.com/naughty-jun/CivSwitchChat/releases)から) と、生成された `payload.txt` をSDカードに配置
 
 ```text
 sd card
