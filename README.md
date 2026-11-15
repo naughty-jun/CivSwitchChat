@@ -1,3 +1,5 @@
+[English](README.md) | [日本語](README.ja.md)
+
 # CivSwitchChat
 
 A homebrew app for sending chat messages to Civilization VII lobbies from a Switch 1.
@@ -66,23 +68,40 @@ You can rename `payload.txt` to anything you like.
 
 ### 4. Launch CivSwitchChat on your Switch 1
 
-- **Turn off Airplane Mode.**
+1. **Turn off Airplane Mode.**
     - **No Wi-Fi connection is required.**
-- **Launch the app in Applet Mode.**
+2. **Launch the app in Applet Mode.**
     - **Application Mode is not supported.**
 
-1. **Scan for lobbies** (press Y).
-2. **Select a lobby** (D-Pad Up/Down).
+    <img width="300" alt="01" src="https://github.com/user-attachments/assets/463f9df1-ea4d-4eda-83a0-558fe1dad3e7" />
+
+3. **Scan for lobbies** (press Y).
+
+4. **Select a lobby** (D-Pad Up/Down).
     - Find your Switch 2's MAC address.
-3. **Join the lobby** (press A).
-4. **Open the file selection dialog** (press Y).
-5. **Select the payload file** (D-Pad Up/Down).
+
+    <img width="300" alt="02" src="https://github.com/user-attachments/assets/d40175ae-2170-4b35-ae97-714582c39569" />
+
+5. **Join the lobby** (press A).
+
+    <img width="300" alt="03" src="https://github.com/user-attachments/assets/a4614303-2a32-4ca1-b6f7-46f6b36d2a43" />
+
+6. **Open the file selection dialog** (press Y).
+
+7. **Select the payload file** (D-Pad Up/Down).
     - Select the `payload.txt` file you copied earlier (or its renamed equivalent).
     - You can also send arbitrary chat messages instead of a payload.
-6. **Adjust the delay** (D-Pad Left/Right).
-    - 50 ms is the minimum delay.
+
+    <img width="300" alt="04" src="https://github.com/user-attachments/assets/95265c2b-037a-483a-94aa-febc3372e9e3" />
+
+8. **Adjust the delay** (D-Pad Left/Right).
+    - `50 ms` is the minimum delay.
     - If messages are not sent in the correct order, try increasing the delay.
-7. **Start sending the payload** (press A).
+
+9. **Start sending the payload** (press A).
+
+    <img width="300" alt="05" src="https://github.com/user-attachments/assets/bf340a5f-f419-49ba-a164-e34fdf2e935a" />
+    <img width="300" alt="06" src="https://github.com/user-attachments/assets/a2d2edc7-a1a0-4572-9b4c-daf1e63215f1" />
 
 ### 5. That's it
 
