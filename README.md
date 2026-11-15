@@ -47,7 +47,7 @@ node compress.js
 
 ### 2. Copy the files to your SD card
 
-Place the `.nro` file and the generated `payload.txt` on your SD card:
+Place the `.nro` file (from [releases](https://github.com/naughty-jun/CivSwitchChat/releases)) and the generated `payload.txt` on your SD card:
 
 ```text
 sd card
