@@ -1,3 +1,5 @@
+[English](README.md) | [日本語](README.ja.md)
+
 # CivSwitchChat
 
 Switch 1 で Civilization VII のロビー内に向けてチャットメッセージを送信するための自作ソフト
@@ -66,23 +68,40 @@ sd card
 
 ### 4. Switch 1 で CivSwitchChat を起動
 
-- **機内モードは解除してください。**
+1. **機内モードは解除してください。**
     - **Wi-Fi 接続は不要です。**
-- **Applet mode で起動してください。**
+2. **Applet mode で起動してください。**
     - **Application mode には対応していません。**
 
-1. **ロビーをスキャン** (Yボタン)
-2. **ロビーを選択** (十字キー 上下)
+    <img width="300" alt="01" src="https://github.com/user-attachments/assets/463f9df1-ea4d-4eda-83a0-558fe1dad3e7" />
+
+3. **ロビーをスキャン** (Yボタン)
+
+4. **ロビーを選択** (十字キー 上下)
     - Switch 2 の MAC アドレスを探してください
-3. ***ロビーに参加** (Aボタン)
-4. **ファイル選択ダイアログを開く** (Yボタン)
-5. **payload ファイルを選択** (十字キー 上下)
+
+    <img width="300" alt="02" src="https://github.com/user-attachments/assets/d40175ae-2170-4b35-ae97-714582c39569" />
+
+5. ***ロビーに参加** (Aボタン)
+
+    <img width="300" alt="03" src="https://github.com/user-attachments/assets/a4614303-2a32-4ca1-b6f7-46f6b36d2a43" />
+
+6. **ファイル選択ダイアログを開く** (Yボタン)
+
+7. **payload ファイルを選択** (十字キー 上下)
     - 先ほど配置した `payload.txt`（または変更後のファイル名）を選択してください
     - payload ではなく、適当なチャットメッセージを送信することもできます
-6. **送信間隔を調整** (十字キー 左右)
+
+    <img width="300" alt="04" src="https://github.com/user-attachments/assets/95265c2b-037a-483a-94aa-febc3372e9e3" />
+
+8. **送信間隔を調整** (十字キー 左右)
     - 最短の送信間隔は 50ms です
     - メッセージが正しい順番で送信されない場合は、送信間隔を長くしてください
-7. **payload の送信を開始** (A ボタン)
+
+9. **payload の送信を開始** (A ボタン)
+
+    <img width="300" alt="05" src="https://github.com/user-attachments/assets/bf340a5f-f419-49ba-a164-e34fdf2e935a" />
+    <img width="300" alt="06" src="https://github.com/user-attachments/assets/a2d2edc7-a1a0-4572-9b4c-daf1e63215f1" />
 
 ### 5. 以上
 
